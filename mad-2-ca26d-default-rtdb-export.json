@@ -1,0 +1,415 @@
+{
+  "challenge": {
+    "-ONdweXxHGdjIOC6o_jc": {
+      "description": "Bầu trời là một chủ đề nghệ thuật đầy cảm hứng, có thể thể hiện nhiều sắc thái cảm xúc và phong cách khác nhau...",
+      "name": "Vẽ bầu trời",
+      "thumbNail": "link",
+      "timeEnd": "1745082000000",
+      "timeStart": "1744218000000"
+    }
+  },
+  "course_user": {
+    "-ON_KQLFsykOGJPxrSLX": {
+      "courseID": 101,
+      "userID": "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2"
+    },
+    "-ON_KW5dnU_Qe8J5FqmL": {
+      "courseID": 103,
+      "userID": "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2"
+    },
+    "-ON_Key_cn46L-Em4g6s": {
+      "courseID": 102,
+      "userID": "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2"
+    },
+    "-ON_Kgr1URD0PyBuXeKi": {
+      "courseID": 102,
+      "userID": "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2"
+    },
+    "-ONc36KKdqdWOgD3Amm9": {
+      "courseID": 105,
+      "userID": "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2"
+    },
+    "-ONcLxbGq7CYNNTTYt9d": {
+      "courseID": 104,
+      "userID": "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2"
+    },
+    "-ONdgiHK-h99RtRJz1hZ": {
+      "courseID": 101,
+      "userID": "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2"
+    },
+    "-ONnk83e3h1N6TsBNOdM": {
+      "courseID": 101,
+      "userID": "vFfkWpLOkvUtBUjCI27vOnr0CTi1"
+    },
+    "-ONr4T7CADGaIgnJzjtP": {
+      "courseID": 102,
+      "userID": "vFfkWpLOkvUtBUjCI27vOnr0CTi1"
+    },
+    "-ONr4qmXUOZFvh_bIlZR": {
+      "courseID": 103,
+      "userID": "vFfkWpLOkvUtBUjCI27vOnr0CTi1"
+    },
+    "-ONrIpekU1FvQAujHh5k": {
+      "courseID": 101,
+      "userID": "Vg7TGcaWbKenTDbQ2ZZUUCu3Xp12"
+    },
+    "-ONrK6xrSowvJO-SXya6": {
+      "courseID": 101,
+      "userID": "8S4tuG8oFvZKtPuxbfbDzAcyYeY2"
+    },
+    "-ONt8I_C83y2ztyOu5p4": {
+      "courseID": 101,
+      "userID": "MII36sGIRrNxtp2q7UkfZqkwnmu1"
+    },
+    "-ONuLwX_wlk9TI7ivZP4": {
+      "courseID": 101,
+      "userID": "kdBhWRDKRsf4875XlUHTkMmDC7g2"
+    },
+    "-ONw8vpsc0wfY23xLWxc": {
+      "courseID": 102,
+      "userID": "MII36sGIRrNxtp2q7UkfZqkwnmu1"
+    },
+    "-ONw9FitRdlLOpt1ywpu": {
+      "courseID": 101,
+      "userID": "A2ApZ5G9KthxMCXVLyKhiXocli62"
+    },
+    "-ONwIJE1Nr1rtSuvb9-m": {
+      "courseID": 102,
+      "userID": "A2ApZ5G9KthxMCXVLyKhiXocli62"
+    },
+    "-ONwIlPfa1ufF20KVt81": {
+      "courseID": 102,
+      "userID": "A2ApZ5G9KthxMCXVLyKhiXocli62"
+    },
+    "-ONwpCzFF3t_nghuSto4": {
+      "courseID": 101,
+      "userID": "BYYxGgySWMaoUkwY2liLoRS7CTN2"
+    },
+    "-OO732Cw7XKpGS_obanh": {
+      "courseID": 102,
+      "userID": "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2"
+    },
+    "-OO7JGfS0IUKBqxCgWwT": {
+      "courseID": 102,
+      "userID": "Vg7TGcaWbKenTDbQ2ZZUUCu3Xp12"
+    },
+    "-OO7JNltgMD2OblYHZJu": {
+      "courseID": 103,
+      "userID": "Vg7TGcaWbKenTDbQ2ZZUUCu3Xp12"
+    },
+    "-OO7JnM6MLFxH1IwdzCF": {
+      "courseID": 103,
+      "userID": "Vg7TGcaWbKenTDbQ2ZZUUCu3Xp12"
+    },
+    "-OO7LRp5b_oZTd40JcRE": {
+      "courseID": 104,
+      "userID": "Vg7TGcaWbKenTDbQ2ZZUUCu3Xp12"
+    },
+    "-OO7LaVgcV_PQ1AD9LsR": {
+      "courseID": 102,
+      "userID": "kdBhWRDKRsf4875XlUHTkMmDC7g2"
+    },
+    "-OOCOVqUCthmaLct7ZDR": {
+      "courseID": 103,
+      "userID": "kdBhWRDKRsf4875XlUHTkMmDC7g2"
+    },
+    "-OOCW4iW5qeptg5g5Y-s": {
+      "courseID": 103,
+      "userID": "A2ApZ5G9KthxMCXVLyKhiXocli62"
+    }
+  },
+  "courses": {
+   
+    "course1": {
+      "description": "Vẽ dáng người (figure drawing) luôn là bài học khó nhằn dành cho những ai vừa mới loạng choạng bước chân vào tập vẽ. Bài học này hướng dẫn kỹ thuật vẽ người đơn giản và phối cảnh sơ khởi, giúp những người mới khắc phục các lỗi như: vẽ dáng người bị cứng, phẳng và thiếu năng lượng. Mỗi video đều được Nguyên minh hoạ chân thực bằng những hình vẽ cực kì dễ thương và cũng rất dễ hiểu",
+      "duration": 4,
+      "id": 101,
+      "image": "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/08/ve-dang-nguoi-11.jpg",
+      "lessonNum": 4,
+      "level": "Nâng cao",
+      "name": "Vẽ dáng người"
+    },
+    "course2": {
+    "description": "Khóa học này giúp bạn làm quen với cách vẽ chân dung cơ bản, từ tỉ lệ khuôn mặt đến cách tô bóng sao cho tự nhiên. Các bài học đơn giản, dễ tiếp cận, phù hợp với cả những bạn chưa từng cầm bút chì vẽ bao giờ. Giảng viên hướng dẫn bằng hình ảnh sinh động, giúp bạn nhanh chóng nắm bắt được kỹ năng cần thiết.",
+    "duration": 3,
+    "id": 102,
+    "image": "https://res.cloudinary.com/dutlqtzad/image/upload/v1745161113/course2_xgf4xz.jpg",
+    "lessonNum": 5,
+    "level": "Cơ bản",
+    "name": "Vẽ chân dung cơ bản"
+  },
+  "course3": {
+    "description": "Bạn đã bao giờ bị hấp dẫn bởi những bức vẽ minh họa truyện tranh chưa? Khóa học này sẽ giúp bạn từng bước học cách tạo nhân vật truyện tranh đáng yêu, từ thiết kế trang phục, biểu cảm gương mặt đến dáng điệu sống động. Rất thích hợp cho những ai yêu thích manga hoặc muốn sáng tạo nên thế giới của riêng mình.",
+    "duration": 5,
+    "id": 103,
+    "image": "https://res.cloudinary.com/dutlqtzad/image/upload/v1745161114/course3_kkecm2.jpg",
+    "lessonNum": 6,
+    "level": "Trung cấp",
+    "name": "Vẽ nhân vật truyện tranh"
+  },
+  "course4": {
+    "description": "Khoá học này giới thiệu nghệ thuật vẽ phong cảnh bằng màu nước, từ các chi tiết như bầu trời, cây cối, đến sông hồ và núi non. Phù hợp với những ai yêu thiên nhiên và muốn thể hiện cảm xúc qua từng nét cọ. Giáo trình được xây dựng theo lộ trình từ dễ đến khó, giúp bạn thoải mái khám phá mà không bị áp lực.",
+    "duration": 4,
+    "id": 104,
+    "image": "https://res.cloudinary.com/dutlqtzad/image/upload/v1745161117/course4_rct6n0.jpg",
+    "lessonNum": 4,
+    "level": "Trung cấp",
+    "name": "Vẽ phong cảnh bằng màu nước"
+  },
+  "course5": {
+    "description": "Dành cho những ai yêu động vật, khóa học này hướng dẫn cách vẽ các loài thú cưng đáng yêu như mèo, chó, thỏ,... với phong cách hoạt hình. Bài học chú trọng vào tỉ lệ, biểu cảm và tạo hình đơn giản dễ thương. Rất phù hợp cho trẻ em hoặc người mới bắt đầu muốn thử sức với các nét vẽ vui nhộn.",
+    "duration": 2,
+    "id": 106,
+    "image": "https://res.cloudinary.com/dutlqtzad/image/upload/v1745161114/course5_umbid7.jpg",
+    "lessonNum": 3,
+    "level": "Cơ bản",
+    "name": "Vẽ thú cưng dễ thương"
+  }
+
+  },
+  "lesson": {
+    "l1": {
+      "courseID": 101,
+      "duration": 45,
+      "id": 1,
+      "name": "Tư duy khối trong vẽ người"
+    },
+    "l2": {
+      "courseID": 101,
+      "duration": 10,
+      "id": 2,
+      "name": "Dựng dáng người đúng chuẩn "
+    },
+    "l3": {
+      "courseID": 101,
+      "duration": 30,
+      "id": 3,
+      "name": "Phối cảnh cơ bản cho dáng người"
+    },
+    "l4": {
+      "courseID": 101,
+      "duration": 32,
+      "id": 4,
+      "name": "Sửa lỗi thường gặp: dáng cứng, thiếu động lực"
+    },
+    "l5": {
+    "courseID": 102,
+    "duration": 32,
+    "id": 5,
+    "name": "Tìm hiểu tỉ lệ khuôn mặt cơ bản"
+    },
+    "l6": {
+      "courseID": 102,
+      "duration": 28,
+      "id": 6,
+      "name": "Cách vẽ mắt, mũi và miệng đơn giản"
+    },
+    "l7": {
+      "courseID": 102,
+      "duration": 41,
+      "id": 7,
+      "name": "Vẽ khung khuôn mặt và tóc"
+    },
+    "l8": {
+      "courseID": 102,
+      "duration": 37,
+      "id": 8,
+      "name": "Kỹ thuật tô bóng làm nổi bật khuôn mặt"
+    },
+    "l9": {
+      "courseID": 102,
+      "duration": 7,
+      "id": 9,
+      "name": "Vẽ dáng môi đẹp"
+    }
+  },
+  "lesson_content": {
+    "lc1": {
+      "detail": "https://anhntlan.github.io/app-content/course/lc1.html",
+      "id": 1,
+      "lessonID": 1,
+      "type": "text"
+    },
+    "lc2": {
+      "detail": "https://res.cloudinary.com/dutlqtzad/video/upload/v1745159879/Sketch_d%C3%A1ng_ng%C6%B0%E1%BB%9Di____vivi_mint_jenzne.mp4",
+      "id": 2,
+      "lessonID": 2,
+      "type": "video"
+    },
+    "lc3": {
+      "detail": "https://anhntlan.github.io/app-content/course/lc3.html",
+      "id": 3,
+      "lessonID": 3,
+      "type": "text"
+    },
+    "lc4": {
+      "detail": "https://res.cloudinary.com/dutlqtzad/video/upload/v1744377946/How_to_draw_hair_-_Straight___PART_1_tevvwb.mp4",
+      "id": 4,
+      "lessonID": 4,
+      "type": "video"
+    },
+    "lc5": {
+      "detail": "https://anhntlan.github.io/app-content/course/lc5.html",
+      "id": 5,
+      "lessonID": 5,
+      "type": "text"
+    },
+    "lc6": {
+      "detail": "https://anhntlan.github.io/app-content/course/lc6.html",
+      "id": 6,
+      "lessonID": 6,
+      "type": "text"
+    },
+    "lc7": {
+      "detail": "https://res.cloudinary.com/dutlqtzad/video/upload/v1745159871/T%E1%BB%88_L%E1%BB%86_KHU%C3%94N_M%E1%BA%B6T_C%C6%A0_B%E1%BA%A2N_%C3%81p_d%E1%BB%A5ng_v%E1%BB%9Bi_m%E1%BB%8Di_Style_v%E1%BA%BD_kavunh.mp4",
+      "id": 7,
+      "lessonID": 7,
+      "type": "video"
+    },
+    "lc8": {
+      "detail": "https://anhntlan.github.io/app-content/course/lc8.html",
+      "id": 8,
+      "lessonID": 8,
+      "type": "text"
+    },
+    "l9":{
+      "detail": "https://res.cloudinary.com/dutlqtzad/video/upload/v1745160691/How_to_draw_Lips_by_Huta_chan_Art_Drawing_gctxeq.mp4",
+      "id": 8,
+      "lessonID": 9,
+      "type": "video"
+    }
+  },
+  "notifications": {
+    "notification1": {
+      "detail": "https://anhntlan.github.io/app-content/notification/noti1.html",
+      "id": 1,
+      "name": "Buổi học trực tuyến",
+      "timeup": "01/03/2025",
+      "type": "class"
+    },
+    "notification2": {
+      "detail": "https://anhntlan.github.io/app-content/notification/noti2.html",
+      "id": 2,
+      "name": "Sự kiện mới tháng 4",
+      "timeup": "02/03/2025",
+      "type": "event"
+    }
+  },
+  "user_courses": {
+    "MII36sGIRrNxtp2q7UkfZqkwnmu1": {
+      "101": true
+    }
+  },
+  "user_lessons": {
+    "3": true,
+    "8S4tuG8oFvZKtPuxbfbDzAcyYeY2": {
+      "4": true
+    },
+    "A2ApZ5G9KthxMCXVLyKhiXocli62": [
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      null,
+      null,
+      null,
+      null,
+      true
+    ],
+    "MII36sGIRrNxtp2q7UkfZqkwnmu1": [
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "Vg7TGcaWbKenTDbQ2ZZUUCu3Xp12": [
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      null,
+      true
+    ],
+    "currentUserId": [
+      null,
+      true
+    ],
+    "hwixsyIqDEaTz3m2W7RD8fCeymf1": {
+      "2": true,
+      "6": true
+    },
+    "kdBhWRDKRsf4875XlUHTkMmDC7g2": [
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      null,
+      true,
+      null,
+      true
+    ],
+    "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2": [
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "vFfkWpLOkvUtBUjCI27vOnr0CTi1": [
+      null,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "user_notifications": {
+    "8S4tuG8oFvZKtPuxbfbDzAcyYeY2": {
+      "2": true
+    },
+    "A2ApZ5G9KthxMCXVLyKhiXocli62": [
+      null,
+      true,
+      true
+    ],
+    "MII36sGIRrNxtp2q7UkfZqkwnmu1": [
+      null,
+      true,
+      true
+    ],
+    "Vg7TGcaWbKenTDbQ2ZZUUCu3Xp12": [
+      null,
+      true
+    ],
+    "kdBhWRDKRsf4875XlUHTkMmDC7g2": [
+      null,
+      true,
+      true
+    ],
+    "sRSg3I4LTrY8wuyQMoh8Fm7hDPl2": [
+      null,
+      true,
+      true
+    ],
+    "vFfkWpLOkvUtBUjCI27vOnr0CTi1": [
+      null,
+      true,
+      true
+    ]
+  }
+}
